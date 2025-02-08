@@ -27,6 +27,7 @@ Curated papers, articles, and blogs on online advertising.
 
 - [LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://arxiv.org/pdf/2402.06859) `LinkedIn` `2024`
 - [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535) `Google` `2020`
+- [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123) `Google` `2017`
 
 ## Budget Optimization
 
