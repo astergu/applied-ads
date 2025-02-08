@@ -45,11 +45,13 @@ Curated papers, articles, and blogs on online advertising.
 - [Handling Many Conversions Per Click in Modeling Delayed Feedback](https://arxiv.org/pdf/2101.02284) `Google` `2021`
 - [A Feedback Shift Correction in Predicting Conversion Rates Under Delayed Feedback](https://arxiv.org/pdf/2002.02068) `Cyberagent` `2020`
 - [Modeling Delayed Feedback in Display Advertising](https://wnzhang.net/share/rtb-papers/delayed-feedback.pdf) `Criteo Labs` `2014`
+- [Learning Classifiers from Only Positive and Unlabeled Data]() `UCSD` `2008`
 
 ## Calibration
 
 - [Deep Ensemble Shape Calibration: Multi-Field Post-hoc Calibration in Online Advertising](https://arxiv.org/pdf/2401.09507) `Shopee` `2024`
 - [Joint Optimization of Ranking and Calibration With Contextualized Hybrid Model](https://arxiv.org/pdf/2208.06164) `Alibaba` `2023`
+- [Field-aware Calibration: A Simple and Empirically Strong Method for Reliable Probablistic Predictions](https://arxiv.org/pdf/1905.10713) `Tencent` `2020`
 
 ## Economics
 
@@ -59,7 +61,8 @@ Curated papers, articles, and blogs on online advertising.
 
 - [Self-supervised Learning for Large-scale Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) `Google` `2021`
 - [Recommending What Video to Watch next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf) `2019`
-- [Wide & Deep Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2988450.2988454) `20`
+- [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf?fbclid=IwAR0jP0WdV0_mberPh3wBIxRSTYZVXZVfg78ctgS-lLTxlGarROCSNtTuVo8) `Meta` `2019`
+- [Wide & Deep Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2988450.2988454) `2016`
 - [Learning Hidden Unit Contributions for Unsupervied Acoustic Model Adaptation](https://arxiv.org/pdf/1601.02828) `2016`
 
 ### Multi-Task Learning
